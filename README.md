@@ -47,11 +47,6 @@ Play against a friend on the same device with an intuitive interface and smooth 
 
 This project is open source and free to use.
 
----
-
-## Author
-
-saubhagya tiwari
 
 ---
 
