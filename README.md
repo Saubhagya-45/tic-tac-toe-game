@@ -42,11 +42,6 @@ Play against a friend on the same device with an intuitive interface and smooth 
 
 ---
 
-## Screenshots
-
-*(Add screenshots here if you want to showcase the UI)*
-
----
 
 ## License
 
@@ -56,7 +51,7 @@ This project is open source and free to use.
 
 ## Author
 
-*Your Name*
+saubhagya tiwari
 
 ---
 
